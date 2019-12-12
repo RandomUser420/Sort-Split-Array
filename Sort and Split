@@ -1,0 +1,21 @@
+
+
+<html>
+  
+  <body>
+  
+  <script>
+  
+  //converts a array into a string //
+  //var food=["apple","banana"];
+  //var newarr = food.toString();
+  //window.alert(newarr[0]); // returns a //
+  
+  var a= "apple,banana,orange";
+  var newarr= a.split("a");
+  window.alert(newarr);
+</script>
+  </body>
+  
+  
+</html>
